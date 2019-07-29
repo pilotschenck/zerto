@@ -1,0 +1,796 @@
+{
+    "AWSTemplateFormatVersion": "2010-09-09",
+    "Metadata": {
+        "AWS::CloudFormation::Designer": {
+            "63636fd7-f1fe-45f9-b371-6772ce946294": {
+                "size": {
+                    "width": 140,
+                    "height": 140
+                },
+                "position": {
+                    "x": -450,
+                    "y": 30
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "f70083eb-a624-404e-b2b4-7d163f4eae78": {
+                "size": {
+                    "width": 140,
+                    "height": 140
+                },
+                "position": {
+                    "x": -450,
+                    "y": -160
+                },
+                "z": 0,
+                "embeds": [
+                    "ed3d04bb-4070-4b65-b949-1deb498ce4aa"
+                ],
+                "iscontainedinside": [
+                    "63636fd7-f1fe-45f9-b371-6772ce946294"
+                ]
+            },
+            "f9b0680b-8bbd-48a7-b2cd-c631cf5781ab": {
+                "size": {
+                    "width": 140,
+                    "height": 140
+                },
+                "position": {
+                    "x": -740,
+                    "y": 220
+                },
+                "z": 0,
+                "embeds": [
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa"
+                ],
+                "iscontainedinside": [
+                    "63636fd7-f1fe-45f9-b371-6772ce946294"
+                ]
+            },
+            "ea7d5b3f-cc0e-4bc7-8f81-9325883cc729": {
+                "size": {
+                    "width": 140,
+                    "height": 140
+                },
+                "position": {
+                    "x": -740,
+                    "y": 30
+                },
+                "z": 0,
+                "embeds": [],
+                "iscontainedinside": [
+                    "63636fd7-f1fe-45f9-b371-6772ce946294"
+                ]
+            },
+            "abb3cdf2-c30f-42c6-ad21-29a83ad951aa": {
+                "size": {
+                    "width": 84.39933239580614,
+                    "height": 87.85888089025457
+                },
+                "position": {
+                    "x": -710,
+                    "y": 260
+                },
+                "z": 1,
+                "parent": "f9b0680b-8bbd-48a7-b2cd-c631cf5781ab",
+                "embeds": [
+                    "0f2712f7-8fa8-4963-ba1f-d2ab067c38b4"
+                ],
+                "iscontainedinside": [
+                    "63636fd7-f1fe-45f9-b371-6772ce946294"
+                ]
+            },
+            "0f2712f7-8fa8-4963-ba1f-d2ab067c38b4": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -700,
+                    "y": 270
+                },
+                "z": 2,
+                "parent": "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                "embeds": [],
+                "iscontainedinside": [
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa",
+                    "abb3cdf2-c30f-42c6-ad21-29a83ad951aa"
+                ]
+            },
+            "f8670f51-7c1c-4e7e-b61f-86455af16422": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -260,
+                    "y": 200
+                },
+                "z": 0,
+                "embeds": [],
+                "iscontainedinside": [
+                    "63636fd7-f1fe-45f9-b371-6772ce946294"
+                ]
+            },
+            "56292459-58d6-4f99-9284-593337b745b7": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -50,
+                    "y": -30
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "00b11fbf-a4a7-4e0a-8505-baccc8d230ef": {
+                "size": {
+                    "width": 80,
+                    "height": 90
+                },
+                "position": {
+                    "x": -220,
+                    "y": 50
+                },
+                "z": 0,
+                "embeds": [],
+                "iscontainedinside": [
+                    "63636fd7-f1fe-45f9-b371-6772ce946294"
+                ]
+            },
+            "994a33b3-0596-4498-9be9-03468ea9c8e2": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -50,
+                    "y": 170
+                },
+                "z": 0,
+                "embeds": [],
+                "iscontainedinside": [
+                    "00b11fbf-a4a7-4e0a-8505-baccc8d230ef"
+                ],
+                "dependson": [
+                    "56292459-58d6-4f99-9284-593337b745b7"
+                ]
+            },
+            "ed3d04bb-4070-4b65-b949-1deb498ce4aa": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -410,
+                    "y": -110
+                },
+                "z": 1,
+                "parent": "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                "embeds": [],
+                "iscontainedinside": [
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78",
+                    "f70083eb-a624-404e-b2b4-7d163f4eae78"
+                ]
+            },
+            "86119713-e682-443f-a2b0-d2f164a0b2a9": {
+                "source": {
+                    "id": "63636fd7-f1fe-45f9-b371-6772ce946294"
+                },
+                "target": {
+                    "id": "56292459-58d6-4f99-9284-593337b745b7"
+                },
+                "z": 0
+            },
+            "931f52ce-c36c-4db1-8314-cfb90e471ac2": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -820,
+                    "y": -20
+                },
+                "z": 0,
+                "embeds": [],
+                "isassociatedwith": [
+                    "ef296b62-0409-4a91-8f3d-fbb08969adb5"
+                ]
+            },
+            "ef296b62-0409-4a91-8f3d-fbb08969adb5": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -820,
+                    "y": 60
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "6663e63c-c9e5-4058-8ede-f24c442a6207": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -410,
+                    "y": 270
+                },
+                "z": 0,
+                "embeds": [],
+                "iscontainedinside": [
+                    "63636fd7-f1fe-45f9-b371-6772ce946294",
+                    "00b11fbf-a4a7-4e0a-8505-baccc8d230ef"
+                ]
+            },
+            "45486f4b-500c-4617-a479-a085134aa16b": {
+                "size": {
+                    "width": 60,
+                    "height": 60
+                },
+                "position": {
+                    "x": -580,
+                    "y": -50
+                },
+                "z": 0,
+                "embeds": []
+            },
+            "a845ce21-3f49-4b0f-ad7e-becaf157b8a9": {
+                "source": {
+                    "id": "63636fd7-f1fe-45f9-b371-6772ce946294"
+                },
+                "target": {
+                    "id": "45486f4b-500c-4617-a479-a085134aa16b"
+                },
+                "z": 0
+            },
+            "7e418a69-9f95-4bfd-bfc6-94f5040a1c8c": {
+                "source": {
+                    "id": "63636fd7-f1fe-45f9-b371-6772ce946294"
+                },
+                "target": {
+                    "id": "45486f4b-500c-4617-a479-a085134aa16b"
+                },
+                "z": 0
+            }
+        }
+    },
+    "Resources": {
+        "ZERTOVPC": {
+            "Type": "AWS::EC2::VPC",
+            "Properties": {
+                "CidrBlock": "10.15.0.0/16",
+                "EnableDnsSupport": true,
+                "EnableDnsHostnames": true,
+                "InstanceTenancy": "default",
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto VPC"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "63636fd7-f1fe-45f9-b371-6772ce946294"
+                }
+            }
+        },
+        "ZERTOZCASUBNET": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                },
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto ZCA Subnet"
+                    }
+                ],
+                "AvailabilityZone": {
+                    "Fn::Select": [
+                        "0",
+                        {
+                            "Fn::GetAZs": ""
+                        }
+                    ]
+                },
+                "CidrBlock": "10.15.0.0/24"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "f70083eb-a624-404e-b2b4-7d163f4eae78"
+                }
+            }
+        },
+        "ZERTOTESTSUBNET": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                },
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto Testing Subnet"
+                    }
+                ],
+                "AvailabilityZone": {
+                    "Fn::Select": [
+                        "1",
+                        {
+                            "Fn::GetAZs": ""
+                        }
+                    ]
+                },
+                "CidrBlock": "10.15.1.0/24"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "f9b0680b-8bbd-48a7-b2cd-c631cf5781ab"
+                }
+            }
+        },
+        "ZERTOPRODSUBNET": {
+            "Type": "AWS::EC2::Subnet",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                },
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto Production Subnet"
+                    }
+                ],
+                "AvailabilityZone": {
+                    "Fn::Select": [
+                        "1",
+                        {
+                            "Fn::GetAZs": ""
+                        }
+                    ]
+                },
+                "CidrBlock": "10.15.2.0/24"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "ea7d5b3f-cc0e-4bc7-8f81-9325883cc729"
+                }
+            }
+        },
+        "ZERTOTESTSUBNETNACL": {
+            "Type": "AWS::EC2::NetworkAcl",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                },
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto Test Subnet NACL"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "abb3cdf2-c30f-42c6-ad21-29a83ad951aa"
+                }
+            }
+        },
+        "NACLNoEgress": {
+            "Type": "AWS::EC2::NetworkAclEntry",
+            "Properties": {
+                "NetworkAclId": {
+                    "Ref": "ZERTOTESTSUBNETNACL"
+                },
+                "CidrBlock": "0.0.0.0/0",
+                "Egress": "True",
+                "Protocol": "-1",
+                "RuleAction": "deny",
+                "RuleNumber": "100"
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "0f2712f7-8fa8-4963-ba1f-d2ab067c38b4"
+                }
+            }
+        },
+        "SGZCAZVMVRA": {
+            "Type": "AWS::EC2::SecurityGroup",
+            "Properties": {
+                "GroupDescription": "SG for ZCA/ZVM/VRA communication",
+                "GroupName": "Zerto Infrastructure SG",
+                "SecurityGroupEgress": [
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "9669",
+                        "ToPort": "9669",
+                        "CidrIp": "10.15.0.4/24"
+                    },
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "9180",
+                        "ToPort": "9180",
+                        "CidrIp": "10.15.0.4/24"
+                    },
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "443",
+                        "ToPort": "443",
+                        "CidrIp": "10.15.0.4/24"
+                    },
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "4005",
+                        "ToPort": "4009",
+                        "CidrIp": "10.15.0.4/24"
+                    }
+                ],
+                "SecurityGroupIngress": [
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "9669",
+                        "ToPort": "9669",
+                        "CidrIp": "0.0.0.0/0"
+                    },
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "9180",
+                        "ToPort": "9180",
+                        "CidrIp": "0.0.0.0/0"
+                    },
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "443",
+                        "ToPort": "443",
+                        "CidrIp": "0.0.0.0/0"
+                    },
+                    {
+                        "IpProtocol": "tcp",
+                        "FromPort": "4005",
+                        "ToPort": "4009",
+                        "CidrIp": "0.0.0.0/0"
+                    }
+                ],
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "f8670f51-7c1c-4e7e-b61f-86455af16422"
+                }
+            }
+        },
+        "ZERTOVPCIGW": {
+            "Type": "AWS::EC2::InternetGateway",
+            "Properties": {
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto VPC Internet Gateway"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "56292459-58d6-4f99-9284-593337b745b7"
+                }
+            }
+        },
+        "ZERTOVPCROUTETABLE": {
+            "Type": "AWS::EC2::RouteTable",
+            "Properties": {
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto VPC Route Table"
+                    }
+                ],
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "00b11fbf-a4a7-4e0a-8505-baccc8d230ef"
+                }
+            }
+        },
+        "ZERTOROUTE01": {
+            "Type": "AWS::EC2::Route",
+            "DependsOn": "ZERTOVPCIGW",
+            "Properties": {
+                "RouteTableId": {
+                    "Ref": "ZERTOVPCROUTETABLE"
+                },
+                "DestinationCidrBlock": "0.0.0.0/0",
+                "GatewayId": {
+                    "Ref": "ZERTOVPCIGW"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "994a33b3-0596-4498-9be9-03468ea9c8e2"
+                }
+            }
+        },
+        "ZERTOZCAINSTANCE": {
+            "Type": "AWS::EC2::Instance",
+            "Properties": {
+                "ImageId": "ami-0f5d6d943d0cfaa57",
+                "KeyName" : "zertokey0001",
+                "InstanceType": "m5.xlarge",
+                "Tags": [
+                    {
+                        "Key": "Name",
+                        "Value": "Zerto Cloud Appliance 01"
+                    }
+                ],
+                "NetworkInterfaces": [
+                    {
+                        "DeleteOnTermination": "True",
+                        "Description": "Primary Network Interface for ZCA",
+                        "DeviceIndex": "0",
+                        "PrivateIpAddress": "10.15.0.4",
+                        "SubnetId": {
+                            "Ref": "ZERTOZCASUBNET"
+                        }
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "ed3d04bb-4070-4b65-b949-1deb498ce4aa"
+                }
+            }
+        },
+        "EC2VPCG24FFI": {
+            "Type": "AWS::EC2::VPCGatewayAttachment",
+            "Properties": {
+                "InternetGatewayId": {
+                    "Ref": "ZERTOVPCIGW"
+                },
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "86119713-e682-443f-a2b0-d2f164a0b2a9"
+                }
+            }
+        },
+        "ZERTOIAMUSER": {
+            "Type": "AWS::IAM::User",
+            "Properties": {
+                "UserName": "zertouser",
+                "LoginProfile": {
+                    "Password": "ZertoP0C&!"
+                },
+                "ManagedPolicyArns": [
+                    {
+                        "Ref": "ZERTOMANAGEDPOLICY"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "931f52ce-c36c-4db1-8314-cfb90e471ac2"
+                }
+            }
+        },
+        "ZERTOMANAGEDPOLICY": {
+            "Type": "AWS::IAM::ManagedPolicy",
+            "Properties": {
+                "Description": "This policy allows Zerto to execute tasks in EC2 and S3 relevant to migration and failover operations.",
+                "PolicyDocument": {
+                    "Version": "2012-10-17",
+                    "Statement": [
+                        {
+                            "Effect": "Allow",
+                            "Action": [
+                                "ec2:AttachNetworkInterface",
+                                "ec2:AttachVolume",
+                                "ec2:AuthorizeSecurityGroupIngress",
+                                "ec2:CancelConversionTask",
+                                "ec2:CancelImportTask",
+                                "ec2:CreateNetworkInterface",
+                                "ec2:CreateSecurityGroup",
+                                "ec2:CreateSnapshot",
+                                "ec2:CreateTags",
+                                "ec2:CreateVolume",
+                                "ec2:DeleteNetworkInterface",
+                                "ec2:DeleteSecurityGroup",
+                                "ec2:DeleteSnapshot",
+                                "ec2:DeleteTags",
+                                "ec2:DeleteVolume",
+                                "ec2:DeregisterImage",
+                                "ec2:DescribeAvailabilityZones",
+                                "ec2:DescribeConversionTasks",
+                                "ec2:DescribeImages",
+                                "ec2:DescribeInstanceAttribute",
+                                "ec2:DescribeInstances",
+                                "ec2:DescribeInstanceStatus",
+                                "ec2:DescribeNetworkInterfaces",
+                                "ec2:DescribeRegions",
+                                "ec2:DescribeSnapshots",
+                                "ec2:DescribeSecurityGroups",
+                                "ec2:DescribeSubnets",
+                                "ec2:DescribeTags",
+                                "ec2:DescribeVolumes",
+                                "ec2:DescribeVolumeStatus",
+                                "ec2:DescribeVpcEndpoints",
+                                "ec2:DescribeVpcs",
+                                "ec2:DetachNetworkInterface",
+                                "ec2:DetachVolume",
+                                "ec2:ImportInstance",
+                                "ec2:ImportVolume",
+                                "ec2:ModifyVolume",
+                                "ec2:ModifyInstanceAttribute",
+                                "ec2:ModifyNetworkInterfaceAttribute",
+                                "ec2:RunInstances",
+                                "ec2:StartInstances",
+                                "ec2:StopInstances",
+                                "ec2:TerminateInstances",
+                                "s3:CreateBucket",
+                                "s3:DeleteBucket",
+                                "s3:DeleteObject",
+                                "s3:GetBucketLocation",
+                                "s3:GetBucketPolicy",
+                                "s3:GetObject",
+                                "s3:GetObjectVersion",
+                                "s3:ListAllMyBuckets",
+                                "s3:ListBucket",
+                                "s3:ListBucketMultipartUploads",
+                                "s3:ListBucketVersions",
+                                "s3:PutBucketTagging",
+                                "s3:PutObject",
+                                "s3:PutLifecycleConfiguration",
+                                "s3:DeleteObjectVersion",
+                                "s3:HeadBucket",
+                                "cloudtrail:DescribeTrails",
+                                "cloudtrail:GetTrailStatus",
+                                "cloudtrail:LookupEvents"
+                            ],
+                            "Resource": "*"
+                        }
+                    ]
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "ef296b62-0409-4a91-8f3d-fbb08969adb5"
+                }
+            }
+        },
+        "ZERTOS3ENDPOINT": {
+            "Type": "AWS::EC2::VPCEndpoint",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                },
+                "ServiceName": {
+                    "Fn::Sub": "com.amazonaws.${AWS::Region}.s3"
+                },
+                "RouteTableIds": [
+                    {
+                        "Ref": "ZERTOVPCROUTETABLE"
+                    }
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "6663e63c-c9e5-4058-8ede-f24c442a6207"
+                }
+            }
+        },
+        "ZERTODHCP": {
+            "Type": "AWS::EC2::DHCPOptions",
+            "Properties": {
+                "DomainNameServers": [
+                    "AmazonProvidedDNS"
+                ]
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "45486f4b-500c-4617-a479-a085134aa16b"
+                }
+            }
+        },
+        "EC2VPCD4J5QG": {
+            "Type": "AWS::EC2::VPCDHCPOptionsAssociation",
+            "Properties": {
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                },
+                "DhcpOptionsId": {
+                    "Ref": "ZERTODHCP"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "a845ce21-3f49-4b0f-ad7e-becaf157b8a9"
+                }
+            }
+        },
+        "EC2VPCD3FAN4": {
+            "Type": "AWS::EC2::VPCDHCPOptionsAssociation",
+            "Properties": {
+                "DhcpOptionsId": {
+                    "Ref": "ZERTODHCP"
+                },
+                "VpcId": {
+                    "Ref": "ZERTOVPC"
+                }
+            },
+            "Metadata": {
+                "AWS::CloudFormation::Designer": {
+                    "id": "7e418a69-9f95-4bfd-bfc6-94f5040a1c8c"
+                }
+            }
+        }
+    }
+}
