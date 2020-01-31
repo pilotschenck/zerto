@@ -68,9 +68,16 @@
                 "iam:PassRole",
                 "cloudtrail:DescribeTrails",
                 "cloudtrail:GetTrailStatus",
-                "cloudtrail:LookupEvents"
+                "cloudtrail:LookupEvents",
+				"kms:Encrypt",
+                "kms:Decrypt",
+                "kms:ReEncrypt*",
+                "kms:GenerateDataKey*",
+                "kms:DescribeKey",
+                "kms:CreateGrant",
+                "kms:ListAliases"
             ],
             "Resource": "*"
-        }
+        },
     ]
 }
